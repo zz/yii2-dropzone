@@ -2,7 +2,7 @@ Yii2 Dropzone
 =============
 DropzoneJs Extention for Yii2
 
-A port of [DropzoneJs](http://www.dropzonejs.com/) for Yii2 Framework
+A port of [DropzoneJs](http://www.dropzonejs.com/) for Yii2 Framework.
 
 Installation
 ------------
